@@ -1,0 +1,15 @@
+C:\Repositories\MIP\ProgrammingParadigms\bin\Debug\net6.0\ProgrammingParadigms.exe
+C:\Repositories\MIP\ProgrammingParadigms\bin\Debug\net6.0\ProgrammingParadigms.deps.json
+C:\Repositories\MIP\ProgrammingParadigms\bin\Debug\net6.0\ProgrammingParadigms.runtimeconfig.json
+C:\Repositories\MIP\ProgrammingParadigms\bin\Debug\net6.0\ProgrammingParadigms.dll
+C:\Repositories\MIP\ProgrammingParadigms\bin\Debug\net6.0\ProgrammingParadigms.pdb
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.csproj.AssemblyReference.cache
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.AssemblyInfoInputs.cache
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.AssemblyInfo.cs
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.csproj.CoreCompileInputs.cache
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.dll
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\refint\ProgrammingParadigms.dll
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.pdb
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ProgrammingParadigms.genruntimeconfig.cache
+C:\Repositories\MIP\ProgrammingParadigms\obj\Debug\net6.0\ref\ProgrammingParadigms.dll
